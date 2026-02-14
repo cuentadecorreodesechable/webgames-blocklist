@@ -57,6 +57,7 @@
 ||skribbl.io^
 ||slither.com^
 ||smashkarts.io^
+||stabfish.io^
 ||supergames.com^
 ||survev.io^
 ||territorial.io^
