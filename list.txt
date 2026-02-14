@@ -12,6 +12,7 @@
 ||chess.com^
 ||cokitos.com^
 ||colonist.io^
+||coolmathgames.com^
 ||crazygames.com^
 ||deadshot.io^
 ||diep.io^
