@@ -19,6 +19,7 @@
 ||diep.io^
 ||evowars.io^
 ||friv.com^
+||gamepix.com^
 ||gamesgames.com^
 ||gartic.io^
 ||hexanaut.io^
